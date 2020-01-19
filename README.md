@@ -1,4 +1,4 @@
-# EXCL coin masternode install script
+# FDReserve coin masternode install script
 
 Shell script to install a FDReserve Masternode on a Linux server running Ubuntu 14.04,16.04 or 18.04. Use it on your own risk.
 This script will instal version 2.1.0
