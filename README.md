@@ -39,10 +39,10 @@ After the MN is up and running, you need to configure the desktop wallet accordi
 <li>fdreserve-cli getinfo</li>
 <li>fdreserve-cli masternode status</li>
 </ul>
-Also, if you want to check/start/stop EXCLCoin , run one of the following commands as root:
+Also, if you want to check/start/stop FDReserve , run one of the following commands as root:
 <ul>
-<li>systemctl status EXCLCoin #To check the service is running.</li>
-<li>systemctl start EXCLCoin #To start EXCL service.</li>
-<li>systemctl stop EXCLCoin #To stop EXCL service.</li>
-<li>systemctl is-enabled EXCLCoin #To check whether EXCL service is enabled on boot or not.</li>
+<li>systemctl status FDReserve #To check the service is running.</li>
+<li>systemctl start FDReserve #To start EXCL service.</li>
+<li>systemctl stop FDReserve #To stop EXCL service.</li>
+<li>systemctl is-enabled FDReserve #To check whether FDR service is enabled on boot or not.</li>
 </ul>
