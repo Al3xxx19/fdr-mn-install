@@ -6,7 +6,7 @@ This script will instal version 3.0.1
 <h2>VPS installation:</h2>
 Login to vps as root then tyoe the following commands
 <ul>
-<li>wget -N https://raw.githubusercontent.com/Al3xxx19/fdr-mn-install/master/excl-mn-install.sh</li>
+<li>wget -N https://raw.githubusercontent.com/Al3xxx19/fdr-mn-install/master/fdr-install.sh</li>
   <li>chmod +x excl-mn-install.sh</li>
   <li>./excl-mn-install.sh</li>
 </ul>
