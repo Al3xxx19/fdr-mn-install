@@ -42,7 +42,7 @@ After the MN is up and running, you need to configure the desktop wallet accordi
 Also, if you want to check/start/stop FDReserve , run one of the following commands as root:
 <ul>
 <li>systemctl status FDReserve #To check the service is running.</li>
-<li>systemctl start FDReserve #To start EXCL service.</li>
-<li>systemctl stop FDReserve #To stop EXCL service.</li>
+<li>systemctl start FDReserve #To start FDR service.</li>
+<li>systemctl stop FDReserve #To stop FDR service.</li>
 <li>systemctl is-enabled FDReserve #To check whether FDR service is enabled on boot or not.</li>
 </ul>
